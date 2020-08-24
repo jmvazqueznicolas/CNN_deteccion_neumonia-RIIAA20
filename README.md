@@ -1,6 +1,6 @@
 # Redes neuronales convolucionales para la detección de neumonía
 
-Esta repositorio contiene la información necesaria para el taller "Redes neuronales convolucionales para la detección de neumonía" que se llevara a cabo en el marco de la RIIAA 2020. El taller se enfocará en el entrenamiento de una CNN (Convolutional Neural Network) a partir del dataset disponibe en [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia?) para la detección de neumonia en imagenes de rayos X.
+Esta repositorio contiene la información necesaria para el taller "Redes neuronales convolucionales para la detección de neumonía" que se llevara a cabo en el marco de la RIIAA 2020. El taller se enfocará en el entrenamiento de una CNN (Convolutional Neural Network) a partir del dataset disponibe en [Google Drive] (https://drive.google.com/file/d/1n9-BZ23M5H-ZvD8F4uxbirlHANNn3DdB/view?usp=sharing) y el cual será necesario para llevar a cabo el taller.
 
 ## Instrucciones para estudiantes
 
